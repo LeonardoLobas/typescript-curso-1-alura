@@ -13,3 +13,4 @@ export class View<T> {
         throw Error("Classe filha precisa do método template");
     }
 }
+(" commit diario");
